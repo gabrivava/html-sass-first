@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+}
+body h1 {
+  color: #9c2626;
+}
+
+p, button {
+  color: blue;
+}

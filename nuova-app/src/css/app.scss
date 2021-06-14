@@ -1,0 +1,12 @@
+$colore-testo: #9c2626;
+$colore-brand: blue;
+
+body {
+    background-color: bisque;
+    h1 {
+        color: $colore-testo;
+    }
+}
+p, button {
+    color: $colore-brand;
+}
